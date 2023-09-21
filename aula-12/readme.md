@@ -3,7 +3,7 @@
     🤖 Visão Computacional
   </h1>
 
-  > 10ª aula da disciplina de visão computacional: Manipulando Vídeo. Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará. Instruída pela Prof. Dr. Fabrício de Souza Farias
+  > 12ª aula da disciplina de visão computacional: Detecção de objetos. Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará. Instruída pela Prof. Dr. Fabrício de Souza Farias
 
   ---
   
@@ -13,14 +13,14 @@
 ## :rocket: Conteúdo Trabalhado
 <div align="Justify">
 
-- [Manipulação de Video Salvo]()
-- [Setando figura geométrica fixa em vídeo]()
-- [Setando figuras geométricas de forma dinâmica]()
+- [Detecção de objetos]()
 ---
 </div>
 
 ## :rocket: Tecnologias Utilizadas
 ---
+- [numpy]()
+- [matplotlib]()
 - [opencv]()
 ## :man_student: Autor
 ---

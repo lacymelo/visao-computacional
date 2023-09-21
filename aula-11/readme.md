@@ -19,8 +19,6 @@
 
 ## :rocket: Tecnologias Utilizadas
 ---
-- [numpy]()
-- [matplotlib]()
 - [opencv]()
 ## :man_student: Autor
 ---
