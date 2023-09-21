@@ -3,7 +3,7 @@
     🤖 Visão Computacional
   </h1>
 
-  > 13ª aula da disciplina de visão computacional: Detecção de bordas, usando o algoritmo de inteligência artificial Harris Corner Detection. Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará. Instruída pela Prof. Dr. Fabrício de Souza Farias
+  > 14ª aula da disciplina de visão computacional: Detecção de bordas, usando o algoritmo de inteligência artificial Shi-Tomasi Corner Detection. Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará. Instruída pela Prof. Dr. Fabrício de Souza Farias
 
   ---
   
