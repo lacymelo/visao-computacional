@@ -3,13 +3,9 @@
     🤖 Visão Computacional
   </h1>
 
-  > 4ª aula da disciplina de visão computacional com foco na manipulação de imagem.
+  > 4ª aula da disciplina de visão computacional com foco na manipulação de imagem. Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará. Instruída pela Prof. Dr. Fabrício de Souza Farias
 
   ---
-
-  > Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará
-
-  > Instruída pela Prof. Dr. Fabrício de Souza Farias
   
   <!-- <img src="https://github.com/Azanniel/nlw-ia/assets/71537090/2fcaee3c-47df-44d5-bebc-0f8783b05299" /> -->
 </div>

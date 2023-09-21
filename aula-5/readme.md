@@ -3,13 +3,9 @@
     🤖 Visão Computacional
   </h1>
 
-  > 5ª aula da disciplina de visão computacional vetorização de imagem usando OpenCV.
+  > 5ª aula da disciplina de visão computacional vetorização de imagem usando OpenCV. Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará. Instruída pela Prof. Dr. Fabrício de Souza Farias
 
   ---
-
-  > Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará
-
-  > Instruída pela Prof. Dr. Fabrício de Souza Farias
   
   <!-- <img src="https://github.com/Azanniel/nlw-ia/assets/71537090/2fcaee3c-47df-44d5-bebc-0f8783b05299" /> -->
 </div>

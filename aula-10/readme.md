@@ -3,7 +3,7 @@
     🤖 Visão Computacional
   </h1>
 
-  > 7ª aula da disciplina de visão computacional manipulação de imagem: manipulando e desenhando em imagem. Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará. Instruída pela Prof. Dr. Fabrício de Souza Farias
+  > 10ª aula da disciplina de visão computacional: Recuperação de arquivo salvo. Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará. Instruída pela Prof. Dr. Fabrício de Souza Farias
 
   ---
   

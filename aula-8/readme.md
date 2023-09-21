@@ -6,10 +6,6 @@
   > 8ª aula da disciplina de visão computacional manipulação de imagem: eventos de mouse para clicar, criar e arrastar. Ao final são criadas figuras geométricas.
 
   ---
-
-  > Disciplina do Mestrado em Computação Aplicada (PPCA) Tucuruí/Pará
-
-  > Instruída pela Prof. Dr. Fabrício de Souza Farias
   
   <!-- <img src="https://github.com/Azanniel/nlw-ia/assets/71537090/2fcaee3c-47df-44d5-bebc-0f8783b05299" /> --> 
 </div>
@@ -17,7 +13,6 @@
 ## :rocket: Tecnologias Utilizadas
 ---
 - [numpy]()
-- [matplotlib]()
 - [opencv]()
 ## :man_student: Autor
 ---
