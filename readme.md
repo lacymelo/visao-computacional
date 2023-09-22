@@ -16,9 +16,7 @@
 ---
 - [Pré-processamento de imagens: filtragem, suavização e  e realce]()
 - [Detecção de bordas e contornos]()
-- [Segmentação de objetos e regiões de interesse]()
-- [Extração de características e descritores]()
-- [Reconhecimento de padrões e classificação de objetos]()
+- [Reconhecimento de padrões e Facial]()
 - [Rastreamento de objetos em vídeos]()
 </div>
 
