@@ -9,11 +9,7 @@
   <!-- <img src="https://github.com/Azanniel/nlw-ia/assets/71537090/2fcaee3c-47df-44d5-bebc-0f8783b05299" /> -->
 </div>
 
-## :rocket: Sobre o Projeto
-<div align="justify">
 
-  > Bem-vindo ao repositório de código-fonte para o projeto da disciplina de Visão Computacional! Este repositório contém uma coleção de códigos e recursos desenvolvidos como parte do curso de Visão Computacional, focado no tratamento e análise de imagens usando a linguagem de programação Python
----
 - [Pré-processamento de imagens: filtragem, suavização e  e realce]()
 - [Detecção de bordas e contornos]()
 - [Reconhecimento de padrões e Facial]()
